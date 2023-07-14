@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora :fax:
 
 # Sobre o projeto
 O projeto consiste em uma calculadora desenvolvida em Python, utilizando recursos matemáticos avançados fornecidos pelo módulo "math". 
