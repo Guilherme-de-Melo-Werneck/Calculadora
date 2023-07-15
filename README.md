@@ -20,8 +20,6 @@ bem como recursos mais avançados, como cálculo de raiz quadrada, potenciação
 
 # Como executar o projeto:
 
-Pré-requisitos: PYTHON 3
-
 ```bash
 # clonar repositório
 git clone https://github.com/Guilherme-de-Melo-Werneck/Calculadora.git
@@ -30,8 +28,9 @@ git clone https://github.com/Guilherme-de-Melo-Werneck/Calculadora.git
 python calculadora.py
 
 ```
+<br>
 
-# Autor
+# Autor:
 
 Guilherme de Melo Werneck
 
